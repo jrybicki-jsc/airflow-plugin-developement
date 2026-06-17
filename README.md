@@ -1,9 +1,6 @@
----
-title: Airflow Plugin Development Tutorial
-author: Jedrzej Rybicki
-header-includes:
-  - \usepackage{pmboxdraw}
----
+# Airflow Plugin Development Tutorial
+by  Jedrzej Rybicki
+
 
 A comprehensive guide to extending Apache Airflow 3.x with custom plugins for API and UI enhancements.
 
